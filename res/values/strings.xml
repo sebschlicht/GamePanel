@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GamePanel</string>
+    <string name="mAbort">Zug abbrechen</string>
+    <string name="mRestart">Spiel neu starten</string>
+    <string name="mStopServer">Server beenden</string>
+    <string name="mDisconnect">Verlassen</string>
+    <string name="mInfo">Info</string>
+</resources>

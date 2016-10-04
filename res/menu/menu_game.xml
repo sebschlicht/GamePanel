@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/mAbort" android:title="@string/mAbort"></item>
+    <item android:id="@+id/mRestart" android:icon="@drawable/btn_restart" android:title="@string/mRestart"></item>
+    <item android:id="@+id/mStop" android:icon="@drawable/btn_stop"></item>
+    <item android:id="@+id/mInfo" android:icon="@drawable/btn_info" android:title="@string/mInfo"></item>
+</menu>
